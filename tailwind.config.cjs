@@ -3,10 +3,11 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{jsx,js}"],
   darkMode: "class",
   theme: {
+    fontFamily: {
+      'JetBrains': ['jetbrains mono', 'sans-serif'],
+    },
     extend: {
-      fontFamily: {
-        inter: ["inter", "serif"],
-      }
+      
     },
   },
   plugins: [],
