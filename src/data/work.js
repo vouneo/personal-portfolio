@@ -9,7 +9,7 @@ export default [
     year: 'Today',
     title: 'Metal achives 2.0',
     duration: '3 months',
-    details: 'Trying to learning new frontend frameworks I made a complete re-imagination of the MetalArchives website, scrapping all its content and serving them in a new modern platform'
+    details: 'Trying to learning new frontend frameworks I made a complete re-imagination of the MetalArchives website, scrapping all its content and serving them in a new modern platform built in Svelte'
   },
   {
     year: 'This year',
